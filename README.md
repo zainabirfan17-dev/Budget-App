@@ -65,41 +65,39 @@ python budget.py
 ```
 ## 📊 Example Output
 ```
-*************Food**************
-initial deposit         1000.00
-groceries                -50.15
-for dining               -35.89
-Transfer to Clothing     -50.00
-Total: 864.00
-
-***********Clothing************
-Transfer from Food        50.00
-shoes                    -50.00
-All types of clothing    500.00
-Eid dress               -200.00
+*************Food*************
+initial deposit        1000.00
+groceries               -50.15
+for dining              -35.89
+Transfer to Clothing    -50.00
+Total: 863.96
+***********Clothing***********
+Transfer from Food       50.00
+shoes                   -50.00
+All types of clothing   500.00
+Eid dress              -200.00
 Total: 300.00
-
 Percentage spent by category
-100|          
- 90|          
- 80|          
- 70|          
- 60|          
- 50| o        
- 40| o        
- 30| o        
- 20| o  o     
- 10| o  o     
-  0| o  o     
-    ----------
-     F  C     
-     o  l     
-     o  o     
-     d  t     
-        h     
-        i     
-        n     
-        g     
+100|
+ 90|
+ 80|
+ 70|
+ 60|    o
+ 50|    o
+ 40|    o
+ 30| o  o
+ 20| o  o
+ 10| o  o
+  0| o  o
+    -------
+     F  C
+     o  l
+     o  o
+     d  t
+        h
+        i
+        n
+        g
 ```
 ## 🛠️ Technologies Used
 ```
@@ -111,6 +109,7 @@ This is one of my Python projects to practice object-oriented programming, debug
 I had a lot of fun especially while aligning the chart output properly and learning how to format strings neatly! 🎉
 ## Author 
 ⭐ Check out more projects on my GitHub: [zainabirfan17-dev](https://github.com/zainabirfan17-dev)
+
 
 
 
