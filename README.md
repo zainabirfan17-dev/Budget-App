@@ -61,7 +61,7 @@ cd Budget-App
 
 3. Run the program:
 ```bash
-python budget.py
+python main.py
 ```
 ## 📊 Example Output
 ```
@@ -109,6 +109,7 @@ This is one of my Python projects to practice object-oriented programming, debug
 I had a lot of fun especially while aligning the chart output properly and learning how to format strings neatly! 🎉
 ## Author 
 ⭐ Check out more projects on my GitHub: [zainabirfan17-dev](https://github.com/zainabirfan17-dev)
+
 
 
 
