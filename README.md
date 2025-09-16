@@ -49,7 +49,8 @@ Budget-App/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zainabirfan17-dev/Budget-App.git
+git clone https://github.com/zainabirfan17-dev/Budget-App.git
+```
 2. Navigate into the folder:
 ```bash
 cd Budget-App
@@ -107,4 +108,5 @@ This is one of my Python projects to practice object-oriented programming, debug
 I had a lot of fun especially while aligning the chart output properly and learning how to format strings neatly! 🎉
 ## Author 
 ⭐ Check out more projects on my GitHub: [zainabirfan17-dev](https://github.com/zainabirfan17-dev)
+
 
